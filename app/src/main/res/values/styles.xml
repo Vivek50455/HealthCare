@@ -1,0 +1,15 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- App branding color for the app bar -->
+        <item name="colorPrimary">#0277BD</item>
+        <!-- Darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">#00796B</item>
+        <!-- Theme UI controls like checkboxes and text fields -->
+        <item name="colorAccent">#536DFE</item><!-- Customize your theme here. -->
+    </style>
+</resources>
